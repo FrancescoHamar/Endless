@@ -14,4 +14,14 @@ Unity Store libraries and plugins:
 
 At some point during the project the cube was a blender render, however this turned out to be out of the scope of the expecations.
 
+## The game's look:
+This wasn't the main objective when making this project, I therefore limited myself to a rather simple look. 
+The gameobject has no styling, while the tiles are simple blocks.
 
+An interesting mechanic is the following: the blue tiles fall, once the player touches them , and are then recycled when making the new path, this way the number of tiles in the game stays at a constant without need of rendering infinite many of them.
+
+<img src="https://user-images.githubusercontent.com/92935796/213580980-612dabfe-5533-4fe6-a955-3249f40176cb.jpg" alt="drawing" width="600"/>
+
+The coins were made using blender, while the menus are all animated and constructed with unity engine tools.
+
+<img src="https://user-images.githubusercontent.com/92935796/213580973-9888bdb1-77dc-4cc3-88bb-644891e607f9.jpg" alt="drawing" width="600"/>
