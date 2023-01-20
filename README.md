@@ -1,7 +1,7 @@
 # Endless (2017-2018)
 
 ## Project Lore:
-This project was done with the sole purpose of learning, no revenue was generated from this code despite having some ad implementation.
+This project was started with the sole purpose of learning, no revenue was generated from this code despite having some ad implementation.
 
 One of my first experiences with coding something more than a turtle going in circles. Furthermore, definitely my first experience with c#, unity, and making a complete game. The idea was to slightly change a marble zigzagger game by understanding how the source code for that game worked.
 
